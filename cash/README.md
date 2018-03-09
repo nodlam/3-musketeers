@@ -1,8 +1,10 @@
-# DESCRIPTION
+# CASH MODULE
+
+# Description
 
 The cash module is used to make conversion of different currencies.
 
-#INSTALLATION
+# Installation
 
 1) Fork, then clone the project like this:
 -> git clone https://github.com/nodlam/3-musketeers.git
@@ -10,7 +12,7 @@ The cash module is used to make conversion of different currencies.
 2)Install the required module/npm dependencie like this:
 -> npm install ...
 
-#USAGE
+# Usage
 
 For example, execute the program by doing : 
 
