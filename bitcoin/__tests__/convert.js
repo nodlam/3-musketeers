@@ -30,8 +30,9 @@ test('should convert a number from float', () => {
 });
 
 test('should convert a string', () => {
-  //convert('2', 'BTC', 'BTC', 'Number');
-  throw new Error('test not yet defined... write your test here');
+  var x1 = '2';
+  convert(x3, 'BTC', 'BTC', 'Number');
+  expect(typeof x3).toEqual('string');
 });
 
 test('should convert a Big number', () => {
